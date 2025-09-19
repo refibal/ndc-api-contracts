@@ -1,3 +1,5 @@
+# Teszt módosítás
+Ez egy új sor, amit a Desktopból szerkesztettem.
 mkdir -p openapi schemas mapping .github/workflows
 
 # README tartalom beírása
